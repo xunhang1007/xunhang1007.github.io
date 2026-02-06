@@ -24,7 +24,6 @@ Hi! I'm currently a graduate student in the School of Cyber Science and Technolo
 <!-- I have published papers with total <a href='https://scholar.google.com/citations?user=你的ID'>google scholar citations <strong><span id='total_cit'>XX+</span></strong></a>. -->
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 I was awarded the Outstanding Graduate of Anhui Province.
 - *2025.06*: &nbsp;🎉🎉 I graduated from Anhui University and will pursue my master's degree at USTC.
 
 # 📖 Educations
@@ -32,7 +31,7 @@ Hi! I'm currently a graduate student in the School of Cyber Science and Technolo
 - *2021.09 - 2025.06*, BA, Intelligent Science and Technology, [School of Internet](https://si.ahu.edu.cn/), Anhui University (AHU). 
 
 # 🥇 Honors and Awards
-- *2025.06* Outstanding Graduate of Anhui Province, AHU.
+- *2025.06* Outstanding Graduate of Anhui Province.
 
 <!-- 如果你有论文发表,可以添加这个部分,否则注释掉
 # 📝 Publications 
